@@ -27,7 +27,7 @@ A simple MySQL-based relational database system for managing clinic appointments
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/wk-8-Clinic-Booking-DB/clinic-booking-system.git
+   git clone https://github.comKabeloMatlakala/wk-8-Clinic-Booking-DB.git
    ```
 
 2. Import the database:
@@ -43,4 +43,4 @@ View on dbdiagram.io
 - schema.sql – All CREATE TABLE statements
 - sample_data.sql – Example data insertions (optional)
 - README.md – Project documentation
-- erd.png – Visual representation of the database schema
+- ClinicBookingSystem_ERD.png – Visual representation of the database schema
